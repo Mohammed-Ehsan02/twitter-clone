@@ -1,7 +1,7 @@
 # Twitter Clone.
 A twitter clone group project done in the TopIntern JavaScript FullStack Web Developer Boot Camp.
 
-I personally contributed on the Back-End part managing and storing the tweets in the database.
+I personally contributed on the Back-End part, connecting to the database and storing the tweets in the database.
 
 # Tools Used.
  Front-End - Developed using React.
